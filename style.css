@@ -1,12 +1,15 @@
 body{
-background-color:rgba(228, 158, 235, 0.788)
+background-color:rgba(213, 144, 245, 0.788)
 font-family:Playwrite Deutschland Grundschrift Guides;
-
 }
 header{
     font-size:50px;
     text-align: center;
-    background-color: cornsilk;
+    background-color: rgb(172, 242, 245);
     color: black;
     border:dotted;
+}
+top1{
+    text-align:center;
+    padding: bottom 40px;
 }
